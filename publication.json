@@ -1,0 +1,15 @@
+{
+  "generated_at": 1793008236.44349,
+  "generated_at_utc": "2026-10-26T09:50:36.443490+00:00",
+  "source_updated_at": 1793008231.3550751,
+  "events": 13,
+  "candidates": 0,
+  "exported_count": 0,
+  "minimum_verification": "decode",
+  "verification_valid_until": null,
+  "static_client_expiry_is_advisory": true,
+  "refresh_note": "Static files do not self-expire. Check publication time; a failed/delayed workflow may leave the previous deployment online.",
+  "client": "tvboxosc",
+  "artifact_mode": "external_static_channels",
+  "config_url": "https://281049519.github.io/tvbox-live-config/config.json"
+}
