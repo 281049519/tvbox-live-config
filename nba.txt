@@ -17,7 +17,7 @@
         "name": "08:00 NBA 雷霆 VS 太阳 · 线路A2",
         "number": "2",
         "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931566_gqzm.m3u8?auth_key=1793065264-0-0-370c1b75e9245e14e73f1092248086eb&token=2c1594bd4da82679&device=4&platform=rrty"
+          "https://play.aarray.cn/rrty/hd-zh-2-3931566_gqzm.m3u8?auth_key=1793066704-0-0-8c9279c28a79c64731521549004896ae&token=09b3d469ef442e8b&device=4&platform=rrty"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0",
@@ -39,7 +39,7 @@
         "name": "07:00 NBA 黄蜂 VS 奇才 · 线路A2",
         "number": "4",
         "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931561_gqzm.m3u8?auth_key=1793065266-0-0-56a09e7b989cc39904d83be124c37352&token=b2267e9b2ba73d1b&device=4&platform=rrty"
+          "https://play.aarray.cn/rrty/hd-zh-2-3931561_gqzm.m3u8?auth_key=1793066704-0-0-f455aa8e9f3e6fe79e452e5eedc2565d&token=b7a9bd5919037645&device=4&platform=rrty"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0",
@@ -61,7 +61,7 @@
         "name": "07:30 NBA 凯尔特人 VS 公牛 · 线路A2",
         "number": "6",
         "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931563_gqzm.m3u8?auth_key=1793065265-0-0-cda19ba6b6c610b25ea637886cf5a935&token=889f574aa9cf9eb0&device=4&platform=rrty"
+          "https://play.aarray.cn/rrty/hd-zh-2-3931563_gqzm.m3u8?auth_key=1793066704-0-0-7073a5a4999d6c628fe015a45bd6c0c5&token=01407ef3c2ec6c1f&device=4&platform=rrty"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0",
@@ -83,7 +83,7 @@
         "name": "07:30 NBA常规赛 热火 VS 独行侠 · 线路A2",
         "number": "8",
         "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931564_gqzm.m3u8?auth_key=1793065264-0-0-adf06df4193a9aef8c454314846e27fc&token=9372a06e761e2b27&device=4&platform=rrty"
+          "https://play.aarray.cn/rrty/hd-zh-2-3931564_gqzm.m3u8?auth_key=1793066705-0-0-ee85f17e161d1d93c8fd9b14b8e5f4ef&token=2327fed140dad744&device=4&platform=rrty"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0",
@@ -116,7 +116,7 @@
         "name": "07:00 NBA 骑士 VS 森林狼 · 线路A2",
         "number": "11",
         "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931562_gqzm.m3u8?auth_key=1793065205-0-0-151c438efc4b39bfa7956b407c889844&token=b3fa894834bbff53&device=4&platform=rrty"
+          "https://play.aarray.cn/rrty/hd-zh-2-3931562_gqzm.m3u8?auth_key=1793066704-0-0-f708dd28ad36abde6e3a4f372291e328&token=0308f80b2c7c0ae2&device=4&platform=rrty"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0",
@@ -138,7 +138,7 @@
         "name": "08:00 NBA 雄鹿 VS 步行者 · 线路A2",
         "number": "13",
         "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931565_gqzm.m3u8?auth_key=1793065264-0-0-78e5db10495e17a5cffb60d08d513cab&token=4614e29a1cadc67a&device=4&platform=rrty"
+          "https://play.aarray.cn/rrty/hd-zh-2-3931565_gqzm.m3u8?auth_key=1793066764-0-0-43026324ed864b3c2701d82bfc2eab00&token=68da24ff81e99b4a&device=4&platform=rrty"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0",
