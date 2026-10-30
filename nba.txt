@@ -1,51 +1,6 @@
 [
   {
     "group": "NBA",
-    "channels": [
-      {
-        "name": "08:00 NBA 老鹰 VS 骑士 · 腾讯超清1",
-        "number": "1",
-        "urls": [
-          "https://www.rtmpcdn.com/live/qq1.m3u8"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      },
-      {
-        "name": "08:00 NBA 老鹰 VS 骑士 · 彩民直播",
-        "number": "2",
-        "urls": [
-          "https://live01-cn-ali.xdbrk.com/live/85734135_tsc.m3u8"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      },
-      {
-        "name": "08:00 NBA常规赛 鹈鹕 VS 国王 · 腾讯超清2",
-        "number": "3",
-        "urls": [
-          "https://live01-cn-ali.xdbrk.com/live/43684710_tsc.m3u8"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      },
-      {
-        "name": "08:00 NBA常规赛 鹈鹕 VS 国王 · 线路A2",
-        "number": "4",
-        "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931587_gqzm.m3u8?auth_key=1793324523-0-0-2765b37a021af3fd984495e6e96bc8d8&token=8821d59d2059216f&device=4&platform=rrty"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      }
-    ]
+    "channels": []
   }
 ]
