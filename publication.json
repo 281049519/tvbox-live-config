@@ -1,9 +1,9 @@
 {
-  "generated_at": 1793457634.3496637,
-  "generated_at_utc": "2026-10-31T14:40:34.349664+00:00",
-  "source_updated_at": 1793457620.1308978,
+  "generated_at": 1793472612.460372,
+  "generated_at_utc": "2026-10-31T18:50:12.460372+00:00",
+  "source_updated_at": 1793472602.9386075,
   "events": 30,
-  "candidates": 0,
+  "candidates": 4,
   "exported_count": 0,
   "minimum_verification": "decode",
   "verification_valid_until": null,
