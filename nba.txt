@@ -1,6 +1,51 @@
 [
   {
     "group": "NBA",
-    "channels": []
+    "channels": [
+      {
+        "name": "06:00 NBA 步行者 VS 篮网 · 腾讯超清2",
+        "number": "1",
+        "urls": [
+          "https://live01-cn-ali.xdbrk.com/live/52952641_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "06:00 NBA 步行者 VS 篮网 · 线路Q1",
+        "number": "2",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931597_gqzm.m3u8?auth_key=1793577306-0-0-e659f42d2c825e5992a747cc46c1df21&token=e60ab821c34fa01d&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "04:30 NBA 魔术 VS 凯尔特人 · 腾讯超清1",
+        "number": "3",
+        "urls": [
+          "https://live01-cn-ali.xdbrk.com/live/92961532_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "04:30 NBA 魔术 VS 凯尔特人 · 线路A2",
+        "number": "4",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931596_gqzm.m3u8?auth_key=1793577303-0-0-ac5639561bef5a43259b2b149930d4be&token=58bef4aaaf9f4c54&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      }
+    ]
   }
 ]
