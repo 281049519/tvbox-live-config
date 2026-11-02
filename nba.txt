@@ -1,51 +1,6 @@
 [
   {
     "group": "NBA",
-    "channels": [
-      {
-        "name": "09:30 NBA常规赛 勇士 VS 快船 · 腾讯超清3",
-        "number": "1",
-        "urls": [
-          "https://live01-cn-ali.xdbrk.com/live/53013325_tsc.m3u8"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      },
-      {
-        "name": "09:30 NBA常规赛 勇士 VS 快船 · 线路A2",
-        "number": "2",
-        "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931598_gqzm.m3u8?auth_key=1793589183-0-0-426bfcb5f6731781e81fc25e15b3737b&token=f298532f266f63d4&device=4&platform=rrty"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      },
-      {
-        "name": "10:00 NBA 湖人 VS 猛龙 · 腾讯超清4",
-        "number": "3",
-        "urls": [
-          "https://live01-cn-ali.xdbrk.com/live/47800248_tsc.m3u8"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      },
-      {
-        "name": "10:00 NBA 湖人 VS 猛龙 · 线路A2",
-        "number": "4",
-        "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931599_gqzm.m3u8?auth_key=1793589181-0-0-f146b0ba0d66a3811501e1a344946894&token=9e6f4a83741cf3df&device=4&platform=rrty"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      }
-    ]
+    "channels": []
   }
 ]
