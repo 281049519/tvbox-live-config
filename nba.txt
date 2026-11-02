@@ -3,10 +3,10 @@
     "group": "NBA",
     "channels": [
       {
-        "name": "06:00 NBA 步行者 VS 篮网 · 腾讯超清2",
+        "name": "09:30 NBA常规赛 勇士 VS 快船 · 腾讯超清3",
         "number": "1",
         "urls": [
-          "https://live01-cn-ali.xdbrk.com/live/52952641_tsc.m3u8"
+          "https://live01-cn-ali.xdbrk.com/live/53013325_tsc.m3u8"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0",
@@ -14,10 +14,10 @@
         }
       },
       {
-        "name": "06:00 NBA 步行者 VS 篮网 · 线路Q1",
+        "name": "09:30 NBA常规赛 勇士 VS 快船 · 线路A2",
         "number": "2",
         "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931597_gqzm.m3u8?auth_key=1793577306-0-0-e659f42d2c825e5992a747cc46c1df21&token=e60ab821c34fa01d&device=4&platform=rrty"
+          "https://play.aarray.cn/rrty/hd-zh-2-3931598_gqzm.m3u8?auth_key=1793589183-0-0-426bfcb5f6731781e81fc25e15b3737b&token=f298532f266f63d4&device=4&platform=rrty"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0",
@@ -25,10 +25,10 @@
         }
       },
       {
-        "name": "04:30 NBA 魔术 VS 凯尔特人 · 腾讯超清1",
+        "name": "10:00 NBA 湖人 VS 猛龙 · 腾讯超清4",
         "number": "3",
         "urls": [
-          "https://live01-cn-ali.xdbrk.com/live/92961532_tsc.m3u8"
+          "https://live01-cn-ali.xdbrk.com/live/47800248_tsc.m3u8"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0",
@@ -36,10 +36,10 @@
         }
       },
       {
-        "name": "04:30 NBA 魔术 VS 凯尔特人 · 线路A2",
+        "name": "10:00 NBA 湖人 VS 猛龙 · 线路A2",
         "number": "4",
         "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931596_gqzm.m3u8?auth_key=1793577303-0-0-ac5639561bef5a43259b2b149930d4be&token=58bef4aaaf9f4c54&device=4&platform=rrty"
+          "https://play.aarray.cn/rrty/hd-zh-2-3931599_gqzm.m3u8?auth_key=1793589181-0-0-f146b0ba0d66a3811501e1a344946894&token=9e6f4a83741cf3df&device=4&platform=rrty"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0",
