@@ -1,6 +1,73 @@
 [
   {
     "group": "NBA",
-    "channels": []
+    "channels": [
+      {
+        "name": "09:00 NBA 雷霆 VS 奇才 · 腾讯超清4",
+        "number": "1",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/25456028_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "09:00 NBA 雷霆 VS 奇才 · 线路A2",
+        "number": "2",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931634_gqzm.m3u8?auth_key=1794105005-0-0-666235faf2282ddc01ac1210eeaa69de&token=d8cde065d7a1b4ed&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "09:00 NBA 骑士 VS 尼克斯 · CCTV",
+        "number": "3",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/66266194_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "09:00 NBA 骑士 VS 尼克斯 · 腾讯超清3",
+        "number": "4",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/82146908_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "08:30 NBA 老鹰 VS 篮网 · 腾讯超清2",
+        "number": "5",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/15320051_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "08:30 NBA 老鹰 VS 篮网 · 线路A2",
+        "number": "6",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931632_gqzm.m3u8?auth_key=1794105005-0-0-197a1ebbfa671ae9b9b00eb36f13d2a0&token=fc61181c0de4fae0&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      }
+    ]
   }
 ]
