@@ -1,6 +1,95 @@
 [
   {
     "group": "NBA",
-    "channels": []
+    "channels": [
+      {
+        "name": "10:00 NBA 太阳 VS 马刺 · 腾讯超清7",
+        "number": "1",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/84271211_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "10:00 NBA 太阳 VS 马刺 · 线路A2",
+        "number": "2",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931651_gqzm.m3u8?auth_key=1794284826-0-0-50423c2e70b6d600acd78fafad648599&token=1f6cc9ceae82cf87&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "09:00 NBA 独行侠 VS 步行者 · 腾讯超清5",
+        "number": "3",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/07023974_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "09:00 NBA 独行侠 VS 步行者 · 线路A2",
+        "number": "4",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931649_gqzm.m3u8?auth_key=1794284826-0-0-13081684e6c8e4310f7088b6b3bf3d7a&token=0d41d918fcead757&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "09:30 NBA 火箭 VS 掘金 · 腾讯超清6",
+        "number": "5",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/31305104_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "09:30 NBA 火箭 VS 掘金 · 线路A2",
+        "number": "6",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931650_gqzm.m3u8?auth_key=1794284826-0-0-e601e28806a4f2a45bce3628156d8649&token=9378d4182cd30cbc&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "11:00 NBA 勇士 VS 鹈鹕 · 腾讯超清8",
+        "number": "7",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/47217415_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "11:00 NBA 勇士 VS 鹈鹕 · 线路A2",
+        "number": "8",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931652_gqzm.m3u8?auth_key=1794284825-0-0-db46e6245af87d62ba82c2f56e440794&token=95771782c998abef&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      }
+    ]
   }
 ]
