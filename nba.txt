@@ -1,6 +1,29 @@
 [
   {
     "group": "NBA",
-    "channels": []
+    "channels": [
+      {
+        "name": "12:00 NBA 开拓者 VS 雷霆 · 腾讯超清6",
+        "number": "1",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/31305104_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "12:00 NBA 开拓者 VS 雷霆 · 线路A2",
+        "number": "2",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931658_gqzm.m3u8?auth_key=1794380222-0-0-39cfe7effea80c1478eabac902e41d11&token=17efbc763b626abd&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      }
+    ]
   }
 ]
