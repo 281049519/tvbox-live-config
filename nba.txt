@@ -1,6 +1,29 @@
 [
   {
     "group": "NBA",
-    "channels": []
+    "channels": [
+      {
+        "name": "10:00 NBA常规赛 太阳 VS 黄蜂 · 腾讯超清4",
+        "number": "1",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/76559674_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "10:00 NBA常规赛 太阳 VS 黄蜂 · 线路A2",
+        "number": "2",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931672_gqzm.m3u8?auth_key=1794544803-0-0-58a2e395f058d37453251476467c21a0&token=9f010801bf13f023&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      }
+    ]
   }
 ]
