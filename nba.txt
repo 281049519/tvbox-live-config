@@ -1,40 +1,6 @@
 [
   {
     "group": "NBA",
-    "channels": [
-      {
-        "name": "09:00 NBA 热火 VS 活塞 · 腾讯超清3",
-        "number": "1",
-        "urls": [
-          "https://live01-cn-ali.xqnbu.com/live/61096149_tsc.m3u8"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      },
-      {
-        "name": "09:00 NBA 热火 VS 活塞 · 线路A1",
-        "number": "2",
-        "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931675_gqzm.m3u8?auth_key=1794717658-0-0-3844ca8bbbc5df8fbbc1256ab7d564b0&token=41b9c597fd196fbe&device=4&platform=rrty"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      },
-      {
-        "name": "09:00 NBA 灰熊 VS 篮网 · 腾讯超清4",
-        "number": "3",
-        "urls": [
-          "https://live01-cn-ali.xqnbu.com/live/76559674_tsc.m3u8"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      }
-    ]
+    "channels": []
   }
 ]
