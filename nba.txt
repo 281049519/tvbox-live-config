@@ -1,6 +1,51 @@
 [
   {
     "group": "NBA",
-    "channels": []
+    "channels": [
+      {
+        "name": "12:00 NBA常规赛 湖人 VS 黄蜂 · 腾讯超清5",
+        "number": "1",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/07631635_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "12:00 NBA常规赛 湖人 VS 黄蜂 · 线路A1",
+        "number": "2",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931698_gqzm.m3u8?auth_key=1794982126-0-0-4a853f74d312b7c1474bbcc960561042&token=2feb9c9837258bba&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "11:30 NBA 快船 VS 爵士 · 腾讯超清4",
+        "number": "3",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/85068257_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "11:30 NBA 快船 VS 爵士 · 线路A1",
+        "number": "4",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931699_gqzm.m3u8?auth_key=1794982126-0-0-c39f3728917e9aadcdfa3efbd4ad9891&token=d9fb2f6eb5f43443&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      }
+    ]
   }
 ]
