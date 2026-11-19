@@ -1,6 +1,73 @@
 [
   {
     "group": "NBA",
-    "channels": []
+    "channels": [
+      {
+        "name": "11:00 NBA常规赛 湖人 VS 爵士 · 腾讯超清9",
+        "number": "1",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/10181948_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "11:00 NBA常规赛 湖人 VS 爵士 · 线路A1",
+        "number": "2",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931710_gqzm.m3u8?auth_key=1795067733-0-0-85a7f924f905a8a4c5d1e71f0fb38564&token=cadab0cf22e78177&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "11:00 NBA 国王 VS 太阳 · 腾讯超清10",
+        "number": "3",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/91538703_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "11:00 NBA 国王 VS 太阳 · 线路A1",
+        "number": "4",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931711_gqzm.m3u8?auth_key=1795067733-0-0-a0d40f4e780eb083bcd8ae00b4c69e8d&token=1c503f91277c93be&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "10:30 NBA 掘金 VS 凯尔特人 · 腾讯超清7",
+        "number": "5",
+        "urls": [
+          "https://live01-cn-ali.xqnbu.com/live/27708229_tsc.m3u8"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      },
+      {
+        "name": "10:30 NBA 掘金 VS 凯尔特人 · 线路A1",
+        "number": "6",
+        "urls": [
+          "https://play.aarray.cn/rrty/hd-zh-2-3931708_gqzm.m3u8?auth_key=1795067733-0-0-b9ac5e06d4bd27bbd2bdb09fb7570b2c&token=831fda571388a528&device=4&platform=rrty"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://play.88player.top/"
+        }
+      }
+    ]
   }
 ]
