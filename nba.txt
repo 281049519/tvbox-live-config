@@ -1,29 +1,6 @@
 [
   {
     "group": "NBA",
-    "channels": [
-      {
-        "name": "11:00 NBA常规赛 国王 VS 凯尔特人 · 腾讯超清5",
-        "number": "1",
-        "urls": [
-          "https://live01-cn-ali.xqnbu.com/live/07631635_tsc.m3u8"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      },
-      {
-        "name": "11:00 NBA常规赛 国王 VS 凯尔特人 · 线路A1",
-        "number": "2",
-        "urls": [
-          "https://play.aarray.cn/rrty/hd-zh-2-3931721_gqzm.m3u8?auth_key=1795323302-0-0-be138c037cc6bad4f240111d981c41de&token=7464f9c7a8da3893&device=4&platform=rrty"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "https://play.88player.top/"
-        }
-      }
-    ]
+    "channels": []
   }
 ]
